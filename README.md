@@ -41,9 +41,10 @@ docker info
 
 
 # Container Deployment
--- lifecycle of Docker 
+- lifecycle of Docker 
 
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/62458394/156748950-6dbd345a-7951-4299-adcc-4edf052aeb8a.png">
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/62458394/156749194-90d59113-2a44-4609-bcc7-fc4f80ac2f51.png">
+
 
 
 - Download a new Docker image
