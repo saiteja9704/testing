@@ -43,7 +43,7 @@ docker info
 # Container Deployment
 - lifecycle of Docker 
 
-<img width="555" alt="image" src="https://user-images.githubusercontent.com/62458394/156749194-90d59113-2a44-4609-bcc7-fc4f80ac2f51.png">
+<img width="481" alt="image" src="https://user-images.githubusercontent.com/62458394/156749326-3be153ba-02c1-4ff9-8dae-f7d54b502937.png">
 
 
 
