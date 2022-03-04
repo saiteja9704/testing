@@ -41,6 +41,8 @@ docker info
 
 
 # Container Deployment
+<img width="555" alt="image" src="https://user-images.githubusercontent.com/62458394/156748804-813129d9-0936-4dc3-b880-2d45bd69a216.png">
+
 - Download a new Docker image
 ```
 docker pull httpd 
