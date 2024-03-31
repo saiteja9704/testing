@@ -229,3 +229,4 @@ docker inspect vm01
 
 
 
+fish
