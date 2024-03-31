@@ -1,0 +1,57 @@
+[33mcommit 0a8b396ec1059a83f8e1f87b5e6ba6cf8cb3dc8a[m[33m ([m[1;36mHEAD -> [m[1;32msaiteja1[m[33m, [m[1;31morigin/saiteja1[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Sun Mar 31 10:45:49 2024 +0530
+
+    merginglocal
+
+[33mcommit d6801f0142cb7911b2350a37f0d1bcfe0cf65c48[m
+Author: saiteja9704 <80884388+saiteja9704@users.noreply.github.com>
+Date:   Sun Mar 31 09:47:14 2024 +0530
+
+    Create mergetesting
+
+[33mcommit 65e7d7e263c5610e66bca2ccb989ab197f68c01f[m
+Merge: 296aeaf 8865ae1
+Author: saiteja9704 <80884388+saiteja9704@users.noreply.github.com>
+Date:   Sun Mar 31 09:44:26 2024 +0530
+
+    Merge pull request #1 from saiteja9704/main
+    
+    testing github
+
+[33mcommit 8865ae1c803878407d245296cdfb13a6b952393d[m
+Author: Your Name <you@example.com>
+Date:   Sun Mar 31 08:49:26 2024 +0530
+
+    testing github
+
+[33mcommit 296aeafaa14f189073523ba5935362a2ed624cb5[m
+Merge: c1f371f 79be0d0
+Author: Your Name <you@example.com>
+Date:   Sun Mar 31 08:15:16 2024 +0530
+
+    :qMerge branch 'teja' into saiteja
+
+[33mcommit 79be0d04dc21ba04c1bff6ba64a3097d79517562[m[33m ([m[1;32mtest[m[33m, [m[1;32mteja[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Sun Mar 31 08:12:43 2024 +0530
+
+    teja
+
+[33mcommit c1f371f343ece9ff665204fc3d1bf59577c9211e[m
+Author: Your Name <you@example.com>
+Date:   Sun Mar 31 08:06:02 2024 +0530
+
+    saiteja
+
+[33mcommit 877ab57da9be0e1a7e7029645fc4685f57e6e6a9[m
+Author: Your Name <you@example.com>
+Date:   Sat Mar 30 13:36:32 2024 +0530
+
+    test
+
+[33mcommit d136153560c8293cbb55a8d48d42a5988e5e74b3[m
+Author: Your Name <you@example.com>
+Date:   Sat Mar 30 13:28:25 2024 +0530
+
+    firstcommit
